@@ -12,7 +12,7 @@ from db_event import DBE
 from db_vol import DBV
 from choose import Choose
 
-TOKEN = '5593542762:AAG54OTCmt31JSVvnDLCoLyk8PjfW3l7Emg'
+TOKEN = 
 bot = Bot(token=TOKEN)
 logging.basicConfig(level=logging.INFO)
 dp = Dispatcher(bot)
